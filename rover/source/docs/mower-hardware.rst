@@ -94,8 +94,8 @@ The model of Yuri's mower?
 Servo and Linkage mounting on Hustler Raptor SD
 
 
-.. image:: ../images/Mower-Miller_Linear_actuator_Kubota_ZD326_Diesel_mower.jpeg
-    :target: ../_images/Mower-Miller_Linear_actuator_Kubota_ZD326_Diesel_mower.jpeg
+.. image:: ../images/mower-Miller_Linear_actuator_Kubota_ZD326_Diesel_mower.jpeg
+    :target: ../_images/mower-Miller_Linear_actuator_Kubota_ZD326_Diesel_mower.jpeg
 Linear Actuators mounted on a Kubota ZD326 Diesel mower
 
 
